@@ -1,2 +1,2 @@
 # bDSC-interact
-This is the repository where we maintain the community's website.
+This is the repository of the version 1 of Community's website.
